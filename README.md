@@ -1,4 +1,3 @@
 # ML_course_coursera
-Assignments for ML course taught by Andrew Ng
-
-The assignments are done in Octave
+Lecture slides and my personal notes are stored in this repository.
+I would be happy, if someone will find it helpful.
